@@ -32,6 +32,8 @@ const fs = require("fs");
 
 // fs.appendFileSync('./test.txt',new Date().getDate().toLocaleString());
 // fs.appendFileSync('./test.txt',"hey There \n");
+
+
 // fs.copyFileSync('./contact.txt','./copy.txt')
 
 
